@@ -1,0 +1,9 @@
+%dir /usr/lib/debug
+%dir /usr/lib/debug/usr
+%dir /usr/lib/debug/usr/bin
+%dir /usr/lib/debug/.build-id
+%dir /usr/lib/debug/.build-id/7a
+/usr/lib/debug/usr/bin/qtdmm.debug
+/usr/lib/debug/.build-id/7a/73cb549cf4351f0ff41042fbf90431286bd18b.debug
+/usr/lib/debug/.build-id/7a/73cb549cf4351f0ff41042fbf90431286bd18b
+/usr/src/debug/QtDMM-0.8.12
